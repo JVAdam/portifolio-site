@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#background {
+    height: 758px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    color: white;
+    font-family: "Playfair Display", serif;
+    font-weight: 300;
+}
+
+.me {   
+    align-items: center;
+    /* background-color: red; */
+}
+
+.nome {
+    padding-top: 120px;
+}
+
+.about {
+    margin-top: 30px;
+    width: 550px;
+    /* background-color: red; */
+}
+
+.texto {
+    padding-left: 129px;
+}
+
+.links {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    /* background-color: red; */
+    width: 293px;
+}
+
+#icon {
+    padding: 5px;
+}
+
